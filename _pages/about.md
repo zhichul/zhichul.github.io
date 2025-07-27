@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Computer Science, <a href='https://www.clsp.jhu.edu/'>Center for Language and Speech Processing, Johns Hopkins University</a>
+subtitle: PhD Student, <a href='https://www.clsp.jhu.edu/'>Center for Language and Speech Processing, Johns Hopkins University</a>
 
 profile:
   align: right
@@ -26,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<br>
+
 I develop machine learning methods that combine the strength of probabilisitic modeling and language modeling. Recently, I started post-training LLMs with reinforcement learning, and witnessed the magic of RL and model scale.
 
 Currently, I am most interested in 
@@ -33,4 +35,4 @@ Currently, I am most interested in
 * developing methods to improve learning of rare concepts in LLMs
 * applying LLMs to the scientific discovery process
 
-I am a CS PhD student at the Johns Hopkins University, my advisor is <a href='https://www.cs.jhu.edu/~jason'>Jason Eisner</a>.
+I am a Computer Science PhD student at the Johns Hopkins University, my advisor is <a href='https://www.cs.jhu.edu/~jason'>Jason Eisner</a>.
