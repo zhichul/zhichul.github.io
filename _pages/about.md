@@ -27,12 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <br>
+I develop machine learning methods that combine the strength of probabilisitic modeling and language modeling. I am interested in synthetic data, LLM reasoning, and LLM applications that aid scientific research.
 
-I develop machine learning methods that combine the strength of probabilisitic modeling and language modeling. Recently, I started post-training LLMs with reinforcement learning, and witnessed the magic of RL and model scale.
-
-Currently, I am most interested in 
-* developing reinforcement learning methods for LLMs that can make use of raw internet corpora
-* developing methods to improve learning of rare concepts in LLMs
-* applying LLMs to the scientific discovery process
-
-I am a Computer Science PhD student at the Johns Hopkins University, my advisor is <a href='https://www.cs.jhu.edu/~jason'>Jason Eisner</a>.
+I am a Computer Science PhD student at the Johns Hopkins University, my advisor is <a href='https://www.cs.jhu.edu/~jason'>Jason Eisner</a>. Before that, I obtained my MS in Machine Learning and BS in Computer Science from the Cargnegie Mellon University.
