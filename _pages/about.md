@@ -29,4 +29,4 @@ latest_posts:
 <br>
 I develop machine learning methods that combine the strength of probabilisitic modeling and language modeling. I am interested in synthetic data, LLM reasoning, and LLM applications that aid scientific research.
 
-I am a Computer Science PhD student at the Johns Hopkins University, my adviser is <a href='https://www.cs.jhu.edu/~jason'>Jason Eisner</a>. Before that, I obtained my MS in Machine Learning and BS in Computer Science from the Cargnegie Mellon University. My my undergraduate thesis adviser was <a href='https://www.cs.cmu.edu/~tom/'>Tom Mitchell</a>.
+I am a Computer Science PhD student at the Johns Hopkins University, my adviser is <a href='https://www.cs.jhu.edu/~jason'>Jason Eisner</a>. Before that, I obtained my MS in Machine Learning and BS in Computer Science from the Cargnegie Mellon University. My undergraduate thesis adviser was <a href='https://www.cs.cmu.edu/~tom/'>Tom Mitchell</a>.
