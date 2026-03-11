@@ -3,14 +3,14 @@
 
 @inproceedings{
 lu2026generalization,
-title={Generalization of {RLVR} Using Causal Reasoning as a Testbed},
-author={Brian Lu and Hongyu Zhao and Shuo Sun and Hao Peng and Rui Ding and Hongyuan Mei},
-booktitle={The Fourteenth International Conference on Learning Representations},
-year={2026},
-pdf={https://openreview.net/forum?id=DZjbL9BuHs}
-bibtex_show = {true},
-abbr={ICLR 2026},
-abstract="Reinforcement learning with verifiable rewards (RLVR) has emerged as a promising paradigm for post-training large language models (LLMs) on complex reasoning tasks. Yet, the conditions under which RLVR yields robust generalization remain underexplored. This paper provides an empirical study of RLVR generalization in the setting of probabilistic inference over causal graphical models. This setting offers two natural axes along which to examine generalization: (i) the level of the probabilistic query---associational, interventional, or counterfactual---and (ii) the structural complexity of the query, measured by the size of its relevant subgraph. We construct a dataset of causal graphs and queries spanning these difficulty axes and fine-tune Qwen-2.5-Instruct models using RLVR or supervised fine-tuning (SFT). We vary both the model scale (3B-32B) and the query level included in training. We find that RLVR yields stronger within-level and across-level generalization than SFT, but only for specific combinations of model size and training query level. Further analysis shows that RLVR's effectiveness depends on the model's initial reasoning competence. With sufficient initial competence, RLVR improves an LLM's marginalization strategy and reduces errors in intermediate probability calculations, producing substantial accuracy gains, particularly on more complex queries. These results show that RLVR can improve specific causal reasoning subskills, with its benefits emerging only when the model has sufficient initial competence. Our code and data is available at https://github.com/zhichul/rlcausal."
+      abbr={ICLR 2026},
+      title={Generalization of RLVR Using Causal Reasoning as a Testbed},
+      author={Brian Lu and Hongyu Zhao and Shuo Sun and Hao Peng and Rui Ding and Hongyuan Mei},
+      year={2026},
+      booktitle={The Fourteenth International Conference on Learning Representations},
+      pdf={https://openreview.net/pdf?id=DZjbL9BuHs},
+      bibtex_show = {true},
+      abstract="Reinforcement learning with verifiable rewards (RLVR) has emerged as a promising paradigm for post-training large language models (LLMs) on complex reasoning tasks. Yet, the conditions under which RLVR yields robust generalization remain underexplored. This paper provides an empirical study of RLVR generalization in the setting of probabilistic inference over causal graphical models. This setting offers two natural axes along which to examine generalization: (i) the level of the probabilistic query---associational, interventional, or counterfactual---and (ii) the structural complexity of the query, measured by the size of its relevant subgraph. We construct a dataset of causal graphs and queries spanning these difficulty axes and fine-tune Qwen-2.5-Instruct models using RLVR or supervised fine-tuning (SFT). We vary both the model scale (3B-32B) and the query level included in training. We find that RLVR yields stronger within-level and across-level generalization than SFT, but only for specific combinations of model size and training query level. Further analysis shows that RLVR's effectiveness depends on the model's initial reasoning competence. With sufficient initial competence, RLVR improves an LLM's marginalization strategy and reduces errors in intermediate probability calculations, producing substantial accuracy gains, particularly on more complex queries. These results show that RLVR can improve specific causal reasoning subskills, with its benefits emerging only when the model has sufficient initial competence. Our code and data is available at https://github.com/zhichul/rlcausal."
 }
 
 @misc{xia2024letsthinkvarbyvarlarge,
